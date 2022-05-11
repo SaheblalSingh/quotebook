@@ -1,0 +1,9 @@
+do or do not, there is no try -
+Yoda
+
+#Git
+git init
+git status
+git add
+git commit
+git log
